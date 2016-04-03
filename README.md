@@ -1,2 +1,2 @@
-# sreejithindia.github.io
+# Sreejith
 Sreejith's Github Site
